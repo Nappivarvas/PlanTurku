@@ -1,0 +1,24 @@
+git init 
+
+Valmistaa sun kansion git projektiin: tee tämä
+
+git clone /url/
+
+kloonaa sen github projektin sinne kansioon missä oot
+
+git status
+
+kertoo infoo kaikesta
+
+git add /tiedostonimi/
+
+valitset mitä pusket gittiin (git add .) valitsee kaikki
+
+git commit -m "kommentti"
+luo commitin, eli tallentaa sen hetkisen tilan niissä tiedostoissa
+
+git push 
+puskee commitit itse githubiin muiden nähtäväks
+
+git pull
+hakee branchin pään githubista
